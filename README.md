@@ -7,4 +7,4 @@ Arbeitszeiten (reines Coding):
 |Tag 02 | 01:40:56 | 02:41:44 |
 
 
-[![Watch the video](https://img.youtube.com/vi/3S-FdxqOacE/maxresdefault.jpg)](https://youtu.be/3S-FdxqOacE)
+[![Watch the video](https://youtu.be/3S-FdxqOacE)]
