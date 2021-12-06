@@ -7,4 +7,4 @@ Arbeitszeiten (reines Coding):
 |Tag 02 | 01:40:56 | 02:41:44 |
 
 
-[(https://youtu.be/3S-FdxqOacE)]
+[![Everything Is AWESOME](https://img.youtube.com/vi/3S-FdxqOacE/maxresdefault)](https://youtu.be/3S-FdxqOacE "SONNENSYSTEM")
