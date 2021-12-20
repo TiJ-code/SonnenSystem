@@ -19,7 +19,7 @@ Basic Sonnensystem auf Vektor Basis.
 Arbeitszeit 01:40:56
 
 Config Datei hinzugefügt, um den Code aufzuräumen.
-Überarbeitung mancher Methoden für besere Performance.
+ÜEberarbeitung mancher Methoden für besere Performance.
 
 ### Tag 03:
 Arbeitszeit 00:48:37
